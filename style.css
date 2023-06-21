@@ -97,7 +97,6 @@ h3 {
 
 
 .person__box {
-  max-width: 500px;
   justify-self: center;
   overflow: hidden;
   border: 10px solid #fff;
